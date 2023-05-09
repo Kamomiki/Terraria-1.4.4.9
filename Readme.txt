@@ -1,1 +1,1 @@
-Download and run.
+Download, extract and run.
